@@ -3,11 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageLicenseExpression>https://github.com/mrebati/EasyConsole.NetStandard/blob/master/LICENSE</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/mrebati/EasyConsole.NetStandard/blob/master/LICENSE</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/mrebati/EasyConsole.NetStandard/blob/master/LICENSE</PackageProjectUrl>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/mrebati/EasyConsole.NetStandard/</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mrebati/EasyConsole.NetStandard/</PackageProjectUrl>
     <RepositoryType>Open Source</RepositoryType>
     <PackageTags>console menu program, Console, NetStandard, .net core console, .net 5 console</PackageTags>
+    <PackageReleaseNotes>- Ported From EasyConsole</PackageReleaseNotes>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
