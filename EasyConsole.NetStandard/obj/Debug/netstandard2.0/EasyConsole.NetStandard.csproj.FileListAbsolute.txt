@@ -1,0 +1,9 @@
+E:\git\EasyConsole.NetStandard\EasyConsole.NetStandard\bin\Debug\netstandard2.0\EasyConsole.NetStandard.deps.json
+E:\git\EasyConsole.NetStandard\EasyConsole.NetStandard\bin\Debug\netstandard2.0\EasyConsole.NetStandard.dll
+E:\git\EasyConsole.NetStandard\EasyConsole.NetStandard\bin\Debug\netstandard2.0\EasyConsole.NetStandard.pdb
+E:\git\EasyConsole.NetStandard\EasyConsole.NetStandard\obj\Debug\netstandard2.0\EasyConsole.NetStandard.csprojAssemblyReference.cache
+E:\git\EasyConsole.NetStandard\EasyConsole.NetStandard\obj\Debug\netstandard2.0\EasyConsole.NetStandard.AssemblyInfoInputs.cache
+E:\git\EasyConsole.NetStandard\EasyConsole.NetStandard\obj\Debug\netstandard2.0\EasyConsole.NetStandard.AssemblyInfo.cs
+E:\git\EasyConsole.NetStandard\EasyConsole.NetStandard\obj\Debug\netstandard2.0\EasyConsole.NetStandard.csproj.CoreCompileInputs.cache
+E:\git\EasyConsole.NetStandard\EasyConsole.NetStandard\obj\Debug\netstandard2.0\EasyConsole.NetStandard.dll
+E:\git\EasyConsole.NetStandard\EasyConsole.NetStandard\obj\Debug\netstandard2.0\EasyConsole.NetStandard.pdb

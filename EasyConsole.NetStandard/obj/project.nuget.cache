@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+k6HyNH2f3FMIfXGlyU1flvM1YoxuDlr+xPAN5CEIL3lmS3L5e61g26JVHR8bkjMAjGJyctwgbWhJZ5CFuC/w==",
+  "success": true,
+  "projectFilePath": "E:\\git\\EasyConsole.NetStandard\\EasyConsole.NetStandard\\EasyConsole.NetStandard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iwin-112\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\iwin-112\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
